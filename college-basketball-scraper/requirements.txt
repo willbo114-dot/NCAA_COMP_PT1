@@ -1,0 +1,6 @@
+pandas
+requests
+tqdm
+openpyxl
+tabulate
+python-dateutil
